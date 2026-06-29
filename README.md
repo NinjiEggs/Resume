@@ -3,7 +3,9 @@
 <summary> Click to expand </summary>
   High speed platforming game in which you play as a mouse with erratic momentum powers, moving through various levels and avoiding cat enemies to get to the cheese at the end of the stage.
   <br>
+  <br>
   Repository: https://github.com/NinjiEggs/Cheese-Island
+  <br>
   <br>
   <img width="1920" height="1012" alt="image" src="https://github.com/user-attachments/assets/a243e9e5-5eb6-49d2-a6ab-412023bdacd8" />
   <img width="1920" height="1010" alt="image" src="https://github.com/user-attachments/assets/436f0fbc-c999-41a2-be5b-0584e906b686" />
