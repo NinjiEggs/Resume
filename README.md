@@ -2,7 +2,7 @@
 During our minor production phase at the Academy of Interactive Entertainment, I was a collaborator on the puzzle horror game 'Lights Out.' I worked on various systems shown below.
 <br>
 <br>
-Download the game here: (post link here)
+Download the game here: https://candle-team.itch.io/lights-out
 <img width="1920" height="1038" alt="image" src="https://github.com/user-attachments/assets/98628362-71ad-4656-a2a6-5e09b4cb143e" />
 
 ### Simon-Says Puzzle
