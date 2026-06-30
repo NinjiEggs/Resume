@@ -1,3 +1,25 @@
+## Lights Out
+During our minor production phase at the Academy of Interactive Entertainment, I was a collaborator on the puzzle horror game 'Lights Out.' I worked on various systems shown below.
+<br>
+<br>
+Download the game here: (post link here)
+
+# Simon-Says Puzzle
+To complete this puzzle, the player must press the blinking buttons in the correct order, but the twist is that the sequence of buttons to press updates each time the player gets the order correct, and they must do the entire sequence each time until the required number of buttons are all pressed correctly, completing the puzzle.
+<img width="1515" height="887" alt="image" src="https://github.com/user-attachments/assets/3a0237a1-c1c1-435c-903a-d097a4fe229d" />
+<br>
+<details>
+<summary>Click to show more</summary>
+  
+  # Block/Picture Puzzle
+  To complete this puzzle, the player has to find several puzzle pieces scattered around the map, and place them in each slot of the puzzle. The puzzle is completed when all pieces are placed and the picture is finished.
+  <img width="1519" height="898" alt="image" src="https://github.com/user-attachments/assets/80aee00f-a30e-4345-ac37-da51a3c0061b" />
+  # Brightness Slider
+  I created the functionality for the brightness slider present in the options menu. The player can move the slider, and when they click 'apply' in the options menu, it changes the brightness value to match the     placement of the slider.
+  <img width="1516" height="850" alt="image" src="https://github.com/user-attachments/assets/865feb54-6358-4a93-afdb-6e2ef60509ed" />
+</details>
+
+
 ## Cheese Island
 High speed platforming game in which you play as a mouse with erratic momentum powers, moving through various levels and avoiding cat enemies to get to the cheese at the end of the stage.
 <br>
