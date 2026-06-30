@@ -2,7 +2,7 @@
 High speed platforming game in which you play as a mouse with erratic momentum powers, moving through various levels and avoiding cat enemies to get to the cheese at the end of the stage.
 <br>
 <br>
-Repository: https://github.com/NinjiEggs/Cheese-Island
+Cheese Island Repository: https://github.com/NinjiEggs/Cheese-Island
 <br>
 <br>
 <img width="1920" height="1012" alt="image" src="https://github.com/user-attachments/assets/a243e9e5-5eb6-49d2-a6ab-412023bdacd8" />
@@ -13,7 +13,8 @@ Repository: https://github.com/NinjiEggs/Cheese-Island
 For an assignment we were assigned a partner to modify their game by adding new features. My partner was Lyndale Humphrey, and his game was called Payrunner. I added a 'dash' feature and 'dash sheets' which change the player's momentum when they dash through them, based on arrows on the sheet itself, and I added a new level titled 'OCTANE,' that utilized my additional features. After these changes, I dubbed my build of the game 'EVIL' Payrunner.
 <br>
 <br>
-Repository: https://github.com/NinjiEggs/EVIL_Payrunner
+Repository for the original: 
+EVIL Payrunner Repository: https://github.com/NinjiEggs/EVIL_Payrunner
 <br>
 <br>
 <img width="1514" height="897" alt="image" src="https://github.com/user-attachments/assets/3b40559b-a1da-4fe7-935e-aa7443683bd1" />
