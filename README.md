@@ -3,7 +3,7 @@ During our minor production phase at the Academy of Interactive Entertainment, I
 <br>
 <br>
 Download the game here: (post link here)
-<img width="1919" height="1039" alt="image" src="https://github.com/user-attachments/assets/2552f1a1-7a75-4da2-9f48-0ece54b4319a" />
+<img width="1920" height="1038" alt="image" src="https://github.com/user-attachments/assets/98628362-71ad-4656-a2a6-5e09b4cb143e" />
 
 ### Simon-Says Puzzle
 To complete this puzzle, the player must press the blinking buttons in the correct order, but the twist is that the sequence of buttons to press updates each time the player gets the order correct, and they must do the entire sequence each time until the required number of buttons are all pressed correctly, completing the puzzle.
