@@ -2,7 +2,7 @@
 High speed platforming game in which you play as a mouse with erratic momentum powers, moving through various levels and avoiding cat enemies to get to the cheese at the end of the stage.
 <br>
 <br>
-Cheese Island Repository: https://github.com/NinjiEggs/Cheese-Island
+Repository: https://github.com/NinjiEggs/Cheese-Island
 <br>
 <br>
 <img width="1920" height="1012" alt="image" src="https://github.com/user-attachments/assets/a243e9e5-5eb6-49d2-a6ab-412023bdacd8" />
@@ -14,7 +14,8 @@ For an assignment we were assigned a partner to modify their game by adding new 
 <br>
 <br>
 Repository for the original: 
-EVIL Payrunner Repository: https://github.com/NinjiEggs/EVIL_Payrunner
+<br>
+My Repository: https://github.com/NinjiEggs/EVIL_Payrunner
 <br>
 <br>
 <img width="1514" height="897" alt="image" src="https://github.com/user-attachments/assets/3b40559b-a1da-4fe7-935e-aa7443683bd1" />
