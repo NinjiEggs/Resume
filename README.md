@@ -6,9 +6,11 @@ Repository: https://github.com/NinjiEggs/Cheese-Island
 <br>
 <br>
 <img width="1920" height="1012" alt="image" src="https://github.com/user-attachments/assets/a243e9e5-5eb6-49d2-a6ab-412023bdacd8" />
-<img width="1920" height="1010" alt="image" src="https://github.com/user-attachments/assets/436f0fbc-c999-41a2-be5b-0584e906b686" />
-<img width="1920" height="1012" alt="image" src="https://github.com/user-attachments/assets/d3b2ef5e-aeae-4c5e-a371-bd8cd88725e7" />
-<img width="1920" height="1013" alt="image" src="https://github.com/user-attachments/assets/6facc0fc-2fe8-4975-825f-43e3f9e7bdf8" />
+<details>
+  <img width="1920" height="1010" alt="image" src="https://github.com/user-attachments/assets/436f0fbc-c999-41a2-be5b-0584e906b686" />
+  <img width="1920" height="1012" alt="image" src="https://github.com/user-attachments/assets/d3b2ef5e-aeae-4c5e-a371-bd8cd88725e7" />
+  <img width="1920" height="1013" alt="image" src="https://github.com/user-attachments/assets/6facc0fc-2fe8-4975-825f-43e3f9e7bdf8" />
+<details/>
 ## EVIL Payrunner
 For an assignment we were assigned a partner to modify their game by adding new features. My partner was Lyndale Humphrey, and his game was called Payrunner. I added a 'dash' feature and 'dash sheets' which change the player's momentum when they dash through them, based on arrows on the sheet itself, and I added a new level titled 'OCTANE,' that utilized my additional features. After these changes, I dubbed my build of the game 'EVIL' Payrunner.
 <br>
