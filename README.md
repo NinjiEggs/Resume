@@ -17,7 +17,7 @@ Repository: https://github.com/NinjiEggs/Cheese-Island
 For an assignment we were assigned a partner to modify their game by adding new features. My partner was Lyndale Humphrey, and his game was called Payrunner. I added a 'dash' feature and 'dash sheets' which change the player's momentum when they dash through them, based on arrows on the sheet itself, and I added a new level titled 'OCTANE,' that utilized my additional features. After these changes, I dubbed my build of the game 'EVIL' Payrunner.
 <br>
 <br>
-Repository for the original: 
+Repository for the original: https://github.com/ItzASecretBoi/Payrunner 
 <br>
 My Repository: https://github.com/NinjiEggs/EVIL_Payrunner
 <br>
