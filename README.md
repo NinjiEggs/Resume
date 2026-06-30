@@ -40,3 +40,4 @@ Repository: https://github.com/NinjiEggs/Terminal_Evolution
 <br>
 <br>
 <img width="989" height="821" alt="image" src="https://github.com/user-attachments/assets/05f9a9c6-3a05-4c42-bcf0-578157a4a4f3" />
+<img width="709" height="294" alt="image" src="https://github.com/user-attachments/assets/a8f49138-9345-4b9a-87bd-c9a2383cc3d8" />
