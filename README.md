@@ -31,3 +31,12 @@ My Repository: https://github.com/NinjiEggs/EVIL_Payrunner
   <img width="1521" height="874" alt="image" src="https://github.com/user-attachments/assets/18dcc3b6-082b-473c-ab8b-a14c584712bb" />
   <img width="1514" height="902" alt="image" src="https://github.com/user-attachments/assets/a7a784f5-481c-438a-9a03-80558cac5ab8" />
 </details>
+
+## Terminal Evolution
+Terminal based text game written in C++. It is a simple RPG attack system in which you level up exponentially after defeating enemies, having 'attack,' and 'defend,' options, but the standout option is 'evolve,' whic allowed the player to sacrifice their health to strengthen another statistic, such as 'atk,' 'def,' and 'crit.' The game is effectively infinite, and the game was balanced in such a way that getting strong enough would easily create integer overflow numbers, which would give the player a sense of power and instantly defeat enemies.
+<br>
+<br>
+Repository: https://github.com/NinjiEggs/Terminal_Evolution
+<br>
+<br>
+<img width="989" height="821" alt="image" src="https://github.com/user-attachments/assets/05f9a9c6-3a05-4c42-bcf0-578157a4a4f3" />
